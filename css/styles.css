@@ -1,0 +1,29 @@
+
+.content{
+    display: flex;
+    flex-direction: column;    
+    height: 100%;
+    justify-items: center;
+    justify-content: center;
+}
+
+.formulario{    
+    
+    justify-self: center;    
+}
+
+#footer{    
+    display: flex;
+    align-items: center;
+    justify-items: center;    
+    width: 100%;
+    height: 50px;
+    background-color: #eee;
+}
+
+#footer p{
+    text-align: center;
+    margin:0px;
+    margin:auto;
+    color: #333;
+}
